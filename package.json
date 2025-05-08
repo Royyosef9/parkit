@@ -1,0 +1,20 @@
+{
+  "name": "parkit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Royyosef9/parkit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Royyosef9/parkit/issues"
+  },
+  "homepage": "https://github.com/Royyosef9/parkit#readme"
+}
